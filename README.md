@@ -33,7 +33,7 @@ As the demand for tourism is growing, the need to find hotels with high quality 
 1. Press the **Fork** button (top right the page) to save copy of this project on your account.
 2. Download the repository files (project) from the download section or clone this project to your local machine by typing in the bash the following command:
 
-       git clone https://github.com/lcinhust/HotelBookingWebsite.git
+       git clone https://github.com/helloitsurdvq/HotelBookingWebsite.git
 3. Install some essential libraries: `npm install`
 4. Import & execute the SQL queries from the Database folder to the MySQL database.
 5. Import the project in any IDE that support the aforementioned programming languages.
